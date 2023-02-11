@@ -5,6 +5,11 @@ let arr = [
   { id: 2, name: "jack", age: "20", marks: 85 },
   { id: 3, name: "karen", age: "19", marks: 35 },
 ];
+let arr2 = [
+    { id: 10, name: "roman", age: "28", marks: 90},
+    { id: 11, name: "brock", age: "25", marks: 95},
+    { id: 12, name: "amy", age: "23", marks: 75}
+];
 
 function PrintStudentswithMap() {
   //Write your code here , just console.log
